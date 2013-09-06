@@ -210,8 +210,3 @@ In that case, you might want to increase space around box:
         margin : [20, 60, 20, 60]
     });
 
-
-Bug tracker
------------
-
-Have a bug? Please create an issue on GitHub at https://github.com/fancyapps/fancyBox/issues
