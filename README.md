@@ -210,3 +210,7 @@ In that case, you might want to increase space around box:
         margin : [20, 60, 20, 60]
     });
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/glix/fancybox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
